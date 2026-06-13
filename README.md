@@ -7,8 +7,8 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 50vw;
-    height: 100vh;
+    width: 30vw;
+    height: 80vh;
     object-fit: cover;
 />
 
