@@ -8,9 +8,7 @@
         top: 0,
         left: 0,
         width: '50%',
-        height: '50%',
-       
-        zIndex: -1,           // تصویر به پشت می‌رود
+        height: '50%'
       }}
     />
 
