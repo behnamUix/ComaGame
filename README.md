@@ -1,5 +1,18 @@
 # Welcome to your Expo app 👋
 <h3>بازی  چالشی مولتی پلتفرم کُما</h3>
+ <img
+      src="./assets/images/shot.png" // مسیر صحیح تصویر در پوشه public
+      alt="background"
+      style={{
+        position: 'absolute',
+        top: 0,
+        left: 0,
+        width: '100%',
+        height: '100%',
+        objectFit: 'cover',   // تصویر کل صفحه را می‌پوشاند (مثل cover در RN)
+        zIndex: -1,           // تصویر به پشت می‌رود
+      }}
+    />
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
