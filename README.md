@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-<h3>بازی مولتی پلتفرم کُما</h3>
+<h3>بازی  چالشی مولتی پلتفرم کُما</h3>
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
