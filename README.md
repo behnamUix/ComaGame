@@ -9,7 +9,7 @@
         left: 0,
         width: '50%',
         height: '50%',
-        objectFit: 'cover',   // تصویر کل صفحه را می‌پوشاند (مثل cover در RN)
+       
         zIndex: -1,           // تصویر به پشت می‌رود
       }}
     />
