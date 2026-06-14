@@ -1,4 +1,5 @@
 # Welcome to your Expo app 👋
+<p>استارت ایده با کاتلین نوشتم بعد تبدیلش کردم به js</p>
 <h3>بازی  چالشی مولتی پلتفرم کُما</h3>
 <img
   src="./assets/images/shot.png"
